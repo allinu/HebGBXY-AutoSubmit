@@ -235,17 +235,8 @@ HebGBXY-AutoSubmit/
 
 ## 🙏 致谢
 
-- 感谢河北网络干部学院提供的学习平台
 - 感谢所有贡献者和用户的支持
 - 感谢开源社区提供的工具和库
-
-## 📞 支持与联系
-
-如有问题或建议，请通过以下方式联系：
-
-- 📧 邮箱：your-email@example.com
-- 💬 Issues：[GitHub Issues](https://github.com/yourusername/HebGBXY-AutoSubmit/issues)
-- 📖 文档：[项目Wiki](https://github.com/yourusername/HebGBXY-AutoSubmit/wiki)
 
 ---
 
