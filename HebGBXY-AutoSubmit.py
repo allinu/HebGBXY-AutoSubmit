@@ -67,8 +67,9 @@ def process_requests(SESSION, url, headers):
         soup = BeautifulSoup(response.text, "html.parser")
 
         records = []
-
-        for div in soup.select("div.hoz_course_row"):
+        # div#module_0
+        # for div in soup.select("div.hoz_course_row"):
+        for div in soup.select("div#module_0 > div.hoz_course_row"):
             onclick_btn = div.select_one("input.hover_btn")
             if not onclick_btn or "onclick" not in onclick_btn.attrs:
                 continue
